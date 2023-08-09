@@ -6,3 +6,4 @@ Extra:
 Adding additional components(buttons)
 Learning how and then implementing a responsive design so that your site looks great on all screen sizes.
 Adding navigation and splitting up the site so that each section has its own HTML page.# Website_Design_System
+# Website_Design_System
